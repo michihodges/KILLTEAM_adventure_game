@@ -1,2 +1,2 @@
-# kill_team_list_builder
-A list builder for your Kill Team.
+# KILLTEAM_adventure_game
+A text based Kill Team adventure game.
