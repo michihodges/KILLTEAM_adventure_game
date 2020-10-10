@@ -1,2 +1,2 @@
-# KILLTEAM_adventure_game
-A text-based Kill Team adventure game.
+# KILLTEAM_name_generator
+A text-based Kill Team name_generator.
