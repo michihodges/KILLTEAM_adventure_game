@@ -1,5 +1,11 @@
 # MODULES
+import time
 import random
+
+# PRINT PAUSE
+def print_pause(message_to_print):
+    print(message_to_print)
+    time.sleep(1)
 
 # RAVEN GUARD
 def name_generator(batch):
