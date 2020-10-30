@@ -11,7 +11,8 @@ def print_pause(message_to_print):
 # INTRO
 def intro():
     print_pause("Welcome to KILL TEAM Name Generator!")
-    print_pause("Pick your faction")
+    print_pause("Pick your faction:")
+    print_pause("Adeptus Astartes, Imperial")
 
 # RAVEN GUARD
 def name_generator(batch):
